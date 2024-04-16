@@ -1,4 +1,2 @@
 # Project Title
-This is a bot that will refresh the pump.fun screen to the latest page using a basic python script 
-
-
+This Python automation script simplifies the process of refreshing the pump.fun screen, eliminating the need for repetitive clicks to view the latest token releases. Unlike pump.fun's default behavior, which requires manual refreshing after updates, this bot takes care of it automatically. With minimal input, users can effortlessly stay up-to-date with the latest tickers. Plus, it intelligently pauses the refresh function if the mouse is detected in motion, allowing users to seize the opportunity to snag their preferred tokens.
